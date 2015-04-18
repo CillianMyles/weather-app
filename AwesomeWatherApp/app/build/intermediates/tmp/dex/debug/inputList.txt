@@ -1,0 +1,6 @@
+/Users/MrMac/Documents/Dev/Workspaces/StudioWorkspaces/AwesomeWatherApp/app/build/intermediates/classes/debug
+/Users/MrMac/Documents/Dev/Workspaces/StudioWorkspaces/AwesomeWatherApp/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-4d05251023f1e6c937fe37444411888167eafc1d.jar
+/Users/MrMac/Documents/Dev/Workspaces/StudioWorkspaces/AwesomeWatherApp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-101cf998df4baefbcade24bc5671a776a242da75.jar
+/Users/MrMac/Documents/Dev/Workspaces/StudioWorkspaces/AwesomeWatherApp/app/build/intermediates/pre-dexed/debug/classes-f17034e9b078101c6c003e621f2c218435697964.jar
+/Users/MrMac/Documents/Dev/Workspaces/StudioWorkspaces/AwesomeWatherApp/app/build/intermediates/pre-dexed/debug/classes-07bd2d951fb2343965b67fde6c3c994fd578e7dc.jar
+/Users/MrMac/Documents/Dev/Workspaces/StudioWorkspaces/AwesomeWatherApp/app/build/intermediates/pre-dexed/debug/classes-98ec4dcd9ad182755a5ee31071c8ff42cac1573d.jar
